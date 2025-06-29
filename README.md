@@ -22,5 +22,9 @@
 - [11726. 2×n 타일링](./Silver/11726/README.md)
 - [11727. 2×n 타일링 2](./Silver/11727/README.md)
 - [17626. Four Squares](./Silver/17626/README.md)
+- [2630. 색종이 만들기](./Silver/2630/README.md)
+- [1260. DFS와 BFS](./Silver/1260/README.md)
+- [1541. 잃어버린 괄호](./Silver/1541/README.md)
+- [11724. 연결 요소의 개수](./Silver/11724/README.md)
 
 ### Gold
