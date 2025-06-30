@@ -27,5 +27,6 @@
 - [1541. 잃어버린 괄호](./Silver/1541/README.md)
 - [11724. 연결 요소의 개수](./Silver/11724/README.md)
 - [18111. 마인크래프트](./Silver/18111/README.md)
+- [21736. 헌내기는 친구가 필요해](./Silver/21736/README.md)
 
 ### Gold
