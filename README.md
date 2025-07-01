@@ -10,9 +10,6 @@
 
 ## Solved Problems Log
 
-### Bronze
-- [14626. ISBN](./Bronze/14626/README.md)
-
 ### Silver
 - [1012. 유기농 배추](./Silver/1012/README.md)
 - [2579. 계단 오르기](./Silver/2579/README.md)
@@ -28,5 +25,6 @@
 - [11724. 연결 요소의 개수](./Silver/11724/README.md)
 - [18111. 마인크래프트](./Silver/18111/README.md)
 - [21736. 헌내기는 친구가 필요해](./Silver/21736/README.md)
+- [30804. 과일 탕후루](./Silver/30804/README.md)
 
 ### Gold
