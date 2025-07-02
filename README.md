@@ -27,5 +27,6 @@
 - [21736. 헌내기는 친구가 필요해](./Silver/21736/README.md)
 - [30804. 과일 탕후루](./Silver/30804/README.md)
 - [1389. 케빈 베이컨의 6단계 법칙](./Silver/1389/README.md)
+- [1697. 숨바꼭질](./Silver/1697/README.md)
 
 ### Gold
