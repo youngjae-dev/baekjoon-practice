@@ -29,5 +29,6 @@
 - [1389. 케빈 베이컨의 6단계 법칙](./Silver/1389/README.md)
 - [1697. 숨바꼭질](./Silver/1697/README.md)
 - [2667. 단지번호붙이기](./Silver/2667/README.md)
+- [5525. IOIOI](./Silver/5525/README.md)
 
 ### Gold
